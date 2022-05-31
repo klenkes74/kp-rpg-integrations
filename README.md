@@ -4,7 +4,6 @@
 >
 > -- Balian, Kingdom of Heaven
 
-![Dependabot](https://flat.badgen.net/dependabot/Paladins-Inn/kp-rpg-integrations/?icon=dependabot)
 ![Maven](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 ## Abstract
