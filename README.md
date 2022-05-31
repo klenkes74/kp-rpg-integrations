@@ -4,7 +4,10 @@
 >
 > -- Balian, Kingdom of Heaven
 
-![Maven](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/Java%20CI%20with%20Maven/badge.svg)
+![CI](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/CI/badge.svg)
+![CodeQL](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/CodeQL/badge.svg)
+![Github Pages](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/Github%20Pages/badge.svg)
+![Release](https://github.com/Paladins-Inn/kp-rpg-integrations/workflows/Release/badge.svg)
 
 ## Abstract
 This is the integrations part of the [kp-rpg](https://github.com/Paladins-Inn/kp-rpg) project.
